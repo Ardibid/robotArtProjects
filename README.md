@@ -27,9 +27,11 @@ Developed by [Hod Lipson](http://www.hodlipson.com/) Pix18 is a gantry CNC that 
 ![Neural Painters](https://github.com/Ardibid/robotArtProjects/blob/master/files/neuralPainters.jpg)
 
 -Brush Stroke Synthesis with a Generative Adversarial Network Driven by Physically Based Simulation
- [paper](https://github.com/Ardibid/robotArtProjects/blob/master/files/Brush%20Stroke%20Synthesis.pdf) / [Github](https://github.com/reiinakano/neural-painters) 
+ [paper](https://github.com/Ardibid/robotArtProjects/blob/master/files/Brush%20Stroke%20Synthesis.pdf)
+ -
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTY2MzA5NCw4MzcwMTE0NzgsMTMyMT
+eyJoaXN0b3J5IjpbMTUxNTUwNTkyMCw4MzcwMTE0NzgsMTMyMT
 Q4MDc4MSw2OTM5OTQ4NTAsMTMwNjI1MjE4NiwtMTUwNzE2MjY1
 MF19
 -->
