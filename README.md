@@ -19,7 +19,8 @@ Harold Cohen was one of the earlies pioneers of painting with robot. (needs more
  - **Pix18**:
  - ![enter image description here](http://www.pix18.com/uploads/6/9/3/4/69340277/man-orig_orig.jpg)
 
-Developed by [Hod Lipson](http://www.hodlipson.com/) Pix18 is a gantry CNC that uses a brushes and a pallete of colors to paint. [more details needed]
+Developed by [Hod Lipson](http://www.hodlipson.com/) Pix18 is a gantry plotter that uses a brushes and a pallete of colors to paint. [more details needed]
+This project went through several stages, from a small robotic arm to a large gantry plotter. The earlies version was using a robotic arm to draw, a brushstroke simulation and a GA to optimize the difference between the drawing and the input image. But later versions have been using more advanced AI and a better drawing system, most interestingly is the way the user uses the palette to fine tune the results.
 [video demo](https://www.youtube.com/watch?v=YPhYuL6E6qo](https://www.youtube.com/watch?v=YPhYuL6E6qo))
 
 ## Drawing with ML
@@ -33,7 +34,7 @@ Developed by [Hod Lipson](http://www.hodlipson.com/) Pix18 is a gantry CNC that 
  [Paper]()
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODcyODY3NzYsLTU4NTc5MjI4MCw4Mz
-cwMTE0NzgsMTMyMTQ4MDc4MSw2OTM5OTQ4NTAsMTMwNjI1MjE4
-NiwtMTUwNzE2MjY1MF19
+eyJoaXN0b3J5IjpbLTU0NzE2NzgxMCwtNTg1NzkyMjgwLDgzNz
+AxMTQ3OCwxMzIxNDgwNzgxLDY5Mzk5NDg1MCwxMzA2MjUyMTg2
+LC0xNTA3MTYyNjUwXX0=
 -->
