@@ -26,10 +26,10 @@ Developed by [Hod Lipson](http://www.hodlipson.com/) Pix18 is a gantry CNC that 
 -**Neural Painters**: A learned differentiable constraint for generating brushstroke paintings [paper](https://arxiv.org/pdf/1904.08410.pdf) / [Github](https://github.com/reiinakano/neural-painters) / [video demo](https://github.com/Ardibid/robotArtProjects/blob/master/files/1507940147251-drlcss%20(1).mp4)
 ![Neural Painters](https://github.com/Ardibid/robotArtProjects/blob/master/files/neuralPainters.jpg)
 
-
 -Brush Stroke Synthesis with a Generative Adversarial Network Driven by Physically Based Simulation
- [paper]() / [Github](https://github.com/reiinakano/neural-painters) / [video demo](https://github.com/Ardibid/robotArtProjects/blob/master/files/1507940147251-drlcss%20(1).mp4)
+ [paper](https://github.com/Ardibid/robotArtProjects/blob/master/files/Brush%20Stroke%20Synthesis.pdf) / [Github](https://github.com/reiinakano/neural-painters) / [video demo](https://github.com/Ardibid/robotArtProjects/blob/master/files/1507940147251-drlcss%20(1).mp4)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3MDExNDc4LDEzMjE0ODA3ODEsNjkzOT
-k0ODUwLDEzMDYyNTIxODYsLTE1MDcxNjI2NTBdfQ==
+eyJoaXN0b3J5IjpbLTE0MTgwOTYyMzUsODM3MDExNDc4LDEzMj
+E0ODA3ODEsNjkzOTk0ODUwLDEzMDYyNTIxODYsLTE1MDcxNjI2
+NTBdfQ==
 -->
