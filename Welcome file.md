@@ -1,9 +1,9 @@
 # Robotic Art Projects
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+List of the project in the RobotArt competition
 
 
-# Files
+# Robot Paintings
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -142,5 +142,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTM5MTA3NF19
+eyJoaXN0b3J5IjpbMjA3NDc0ODA5XX0=
 -->
