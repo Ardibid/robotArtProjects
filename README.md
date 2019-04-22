@@ -2,10 +2,12 @@
 
 List of the project in the RobotArt competition
 
-# Robot Paintings
+## Robot Paintings
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+ - 
 
+## Drawing with ML
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDcxNjI2NTBdfQ==
+eyJoaXN0b3J5IjpbLTE5NjI3MDkzMjgsLTE1MDcxNjI2NTBdfQ
+==
 -->
