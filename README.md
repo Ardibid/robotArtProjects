@@ -36,10 +36,11 @@ This project went through several stages, from a small robotic arm to a large ga
 ## The Other 
 - **Gimp** for creating brushes with Python [Link](https://www.gimp.org/)
 - [This](https://reiinakano.github.io/)
+- [My Brush](http://mypaint.org/blog/2019/01/26/MyPaint-2.0-alpha/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MTY4NTAyNCwtMzcwMDQ4MDI5LC02NT
-U0Mzk3LC01NDcxNjc4MTAsLTU4NTc5MjI4MCw4MzcwMTE0Nzgs
-MTMyMTQ4MDc4MSw2OTM5OTQ4NTAsMTMwNjI1MjE4NiwtMTUwNz
-E2MjY1MF19
+eyJoaXN0b3J5IjpbNjE5NjE4ODA3LC0zNzAwNDgwMjksLTY1NT
+QzOTcsLTU0NzE2NzgxMCwtNTg1NzkyMjgwLDgzNzAxMTQ3OCwx
+MzIxNDgwNzgxLDY5Mzk5NDg1MCwxMzA2MjUyMTg2LC0xNTA3MT
+YyNjUwXX0=
 -->
