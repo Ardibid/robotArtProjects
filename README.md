@@ -30,9 +30,10 @@ Developed by [Hod Lipson](http://www.hodlipson.com/) Pix18 is a gantry CNC that 
  [paper](https://github.com/Ardibid/robotArtProjects/blob/master/files/Brush%20Stroke%20Synthesis.pdf)
  
  - Learning to Paint with Modal-based Deep Reinforced Learning 
+ [Paper]()
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDE5NzY4OSw4MzcwMTE0NzgsMTMyMT
+eyJoaXN0b3J5IjpbLTU4NTc5MjI4MCw4MzcwMTE0NzgsMTMyMT
 Q4MDc4MSw2OTM5OTQ4NTAsMTMwNjI1MjE4NiwtMTUwNzE2MjY1
 MF19
 -->
