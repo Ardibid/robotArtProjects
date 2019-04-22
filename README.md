@@ -34,11 +34,12 @@ This project went through several stages, from a small robotic arm to a large ga
  [Paper]()
 
 
-## Others
+## The Other 
 - **Gimp** for creating brushes with Python [Link](https://www.gimp.org/)
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyODQ0OTMzMiwtNTQ3MTY3ODEwLC01OD
-U3OTIyODAsODM3MDExNDc4LDEzMjE0ODA3ODEsNjkzOTk0ODUw
-LDEzMDYyNTIxODYsLTE1MDcxNjI2NTBdfQ==
+eyJoaXN0b3J5IjpbLTY1NTQzOTcsLTU0NzE2NzgxMCwtNTg1Nz
+kyMjgwLDgzNzAxMTQ3OCwxMzIxNDgwNzgxLDY5Mzk5NDg1MCwx
+MzA2MjUyMTg2LC0xNTA3MTYyNjUwXX0=
 -->
