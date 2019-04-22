@@ -24,11 +24,11 @@ Developed by [Hod Lipson](http://www.hodlipson.com/) Pix18 is a gantry CNC that 
 ## Drawing with ML
 -**Neural Painters**: A learned differentiable constraint for generating brushstroke paintings [paper](https://arxiv.org/pdf/1904.08410.pdf) / [Github](https://github.com/reiinakano/neural-painters)
 [video demo](https://github.com/Ardibid/robotArtProjects/blob/master/files/1507940147251-drlcss%20(1).mp4)
-
+![Neural Painters](https://github.com/Ardibid/robotArtProjects/blob/master/files/neuralPainters.jpg)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQ5Mzk5MjEsNjkzOTk0ODUwLDEzMD
+eyJoaXN0b3J5IjpbLTEwNzM0MDAzMjksNjkzOTk0ODUwLDEzMD
 YyNTIxODYsLTE1MDcxNjI2NTBdfQ==
 -->
