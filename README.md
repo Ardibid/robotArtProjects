@@ -4,7 +4,7 @@ List of the project in the [RobotArt competition](https://robotart.org/).
 
 ## Robot Paintings
  - **e-David**, Electronic Drawing Apparatus for Vivid Interactive Display:
- -a robotic procedural painting process ![e-David](https://robotart.org/wp-content/uploads/2017/04/final_01.jpg)
+ -a robotic procedural painting process ![e-David](http://graphics.uni-konstanz.de/eDavid/wp-content/uploads/2017/04/final_01-1024x777.jpg)
 They establish a visual control loop using a camera that captures the output of the machine. New drawing commands are computed based on the difference between what is on the canvas and what we want to have on the canvas.
 More info on the project [here]([http://graphics.uni-konstanz.de/eDavid/](http://graphics.uni-konstanz.de/eDavid/)).
 
@@ -33,7 +33,7 @@ Developed by [Hod Lipson](http://www.hodlipson.com/) Pix18 is a gantry CNC that 
  [Paper]()
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTc5MjI4MCw4MzcwMTE0NzgsMTMyMT
-Q4MDc4MSw2OTM5OTQ4NTAsMTMwNjI1MjE4NiwtMTUwNzE2MjY1
-MF19
+eyJoaXN0b3J5IjpbLTIwODcyODY3NzYsLTU4NTc5MjI4MCw4Mz
+cwMTE0NzgsMTMyMTQ4MDc4MSw2OTM5OTQ4NTAsMTMwNjI1MjE4
+NiwtMTUwNzE2MjY1MF19
 -->
