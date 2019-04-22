@@ -33,8 +33,12 @@ This project went through several stages, from a small robotic arm to a large ga
  - Learning to Paint with Modal-based Deep Reinforced Learning 
  [Paper]()
 
+
+## Others
+- **Gimp** for creating brushes with Python [Link](https://www.gimp.org/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NzE2NzgxMCwtNTg1NzkyMjgwLDgzNz
-AxMTQ3OCwxMzIxNDgwNzgxLDY5Mzk5NDg1MCwxMzA2MjUyMTg2
-LC0xNTA3MTYyNjUwXX0=
+eyJoaXN0b3J5IjpbLTYyODQ0OTMzMiwtNTQ3MTY3ODEwLC01OD
+U3OTIyODAsODM3MDExNDc4LDEzMjE0ODA3ODEsNjkzOTk0ODUw
+LDEzMDYyNTIxODYsLTE1MDcxNjI2NTBdfQ==
 -->
