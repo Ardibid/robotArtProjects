@@ -12,7 +12,12 @@ More info on the project [here]([http://graphics.uni-konstanz.de/eDavid/](http:/
 ![enter image description here](https://static1.squarespace.com/static/5800c6211b631b49b4d63657/t/5b0f2e52aa4a99692dc998a2/1527721560441/robotart_announcement.jpg?format=2500w)
 [Coverage on Vice](https://youtu.be/dkTjEi7O4Ic)
 Pendar uses a style transfer technique to generate the image and then 
+
+ - AARON
+ -![enter image description here](https://static1.squarespace.com/static/5800c6211b631b49b4d63657/t/5807227bebbd1a790b76fdb6/1476862594263/?format=2500w)
+Harold Cohen 
 ## Drawing with ML
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjI1MjE4NiwtMTUwNzE2MjY1MF19
+eyJoaXN0b3J5IjpbLTE3MDMxOTE2MTIsMTMwNjI1MjE4NiwtMT
+UwNzE2MjY1MF19
 -->
