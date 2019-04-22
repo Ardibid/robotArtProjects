@@ -22,11 +22,12 @@ Harold Cohen was one of the earlies pioneers of painting with robot. (needs more
 Developed by [Hod Lipson](http://www.hodlipson.com/) Pix18 is a gantry CNC that uses a brushes and a pallete of colors to paint. [more details needed]
 
 ## Drawing with ML
--**Neural Painters**: A learned differentiable constraint for generating brushstroke paintings ([paper]([https://arxiv.org/pdf/1904.08410.pdf])(https://arxiv.org/pdf/1904.08410.pdf))
+-**Neural Painters**: A learned differentiable constraint for generating brushstroke paintings [paper](https://arxiv.org/pdf/1904.08410.pdf) / [Github](https://github.com/reiinakano/neural-painters)
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NzUyNTAwMSwxMzA2MjUyMTg2LC0xNT
+eyJoaXN0b3J5IjpbMTkzMjA2OTg2NCwxMzA2MjUyMTg2LC0xNT
 A3MTYyNjUwXX0=
 -->
