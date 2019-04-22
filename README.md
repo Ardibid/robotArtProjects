@@ -15,9 +15,9 @@ Pendar uses a style transfer technique to generate the image and then
 
  - AARON
  -![enter image description here](https://static1.squarespace.com/static/5800c6211b631b49b4d63657/t/5807227bebbd1a790b76fdb6/1476862594263/?format=2500w)
-Harold Cohen 
+Harold Cohen was one of the earlies pioneers of painting with robot. (needs more details here)
 ## Drawing with ML
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDMxOTE2MTIsMTMwNjI1MjE4NiwtMT
-UwNzE2MjY1MF19
+eyJoaXN0b3J5IjpbMzI4MDk5MDAxLDEzMDYyNTIxODYsLTE1MD
+cxNjI2NTBdfQ==
 -->
