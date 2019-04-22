@@ -30,7 +30,7 @@ This project went through several stages, from a small robotic arm to a large ga
 -**Brush Stroke Synthesis** with a Generative Adversarial Network Driven by Physically Based Simulation
  [paper](https://github.com/Ardibid/robotArtProjects/blob/master/files/Brush%20Stroke%20Synthesis.pdf) / [Github](https://reiinakano.github.io/)
  - Learning to Paint with Modal-based Deep Reinforced Learning 
- [Paper]()
+ [arXive](https://arxiv.org/abs/1903.04411) / [Paper](https://arxiv.org/pdf/1903.04411.pdf)
 
 
 ## The Other 
@@ -38,7 +38,7 @@ This project went through several stages, from a small robotic arm to a large ga
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjc2MTk2LC02NTU0Mzk3LC01NDcxNj
-c4MTAsLTU4NTc5MjI4MCw4MzcwMTE0NzgsMTMyMTQ4MDc4MSw2
-OTM5OTQ4NTAsMTMwNjI1MjE4NiwtMTUwNzE2MjY1MF19
+eyJoaXN0b3J5IjpbLTM3MDA0ODAyOSwtNjU1NDM5NywtNTQ3MT
+Y3ODEwLC01ODU3OTIyODAsODM3MDExNDc4LDEzMjE0ODA3ODEs
+NjkzOTk0ODUwLDEzMDYyNTIxODYsLTE1MDcxNjI2NTBdfQ==
 -->
