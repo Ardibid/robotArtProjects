@@ -18,9 +18,10 @@ Harold Cohen was one of the earlies pioneers of painting with robot. (needs more
 
  - **Pix18**:
  - ![enter image description here](http://www.pix18.com/uploads/6/9/3/4/69340277/man-orig_orig.jpg)
-
+[video demo](https://www.youtube.com/watch?v=YPhYuL6E6qo](https://www.youtube.com/watch?v=YPhYuL6E6qo))
+Developed by [Hod Lipson](http://www.hodlipson.com/) Pix18 is a 
 ## Drawing with ML
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMTI5MTczMCwxMzA2MjUyMTg2LC0xNT
-A3MTYyNjUwXX0=
+eyJoaXN0b3J5IjpbMjU0OTE0NzE3LDEzMDYyNTIxODYsLTE1MD
+cxNjI2NTBdfQ==
 -->
