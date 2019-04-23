@@ -32,7 +32,6 @@ This project went through several stages, from a small robotic arm to a large ga
  - Learning to Paint with Modal-based Deep Reinforced Learning 
  [arXive](https://arxiv.org/abs/1903.04411) / [Paper](https://arxiv.org/pdf/1903.04411.pdf)
 
-
 ## The Other 
 - **Gimp** for creating brushes with Python [Link](https://www.gimp.org/)
 - [This](https://reiinakano.github.io/)
@@ -40,8 +39,8 @@ This project went through several stages, from a small robotic arm to a large ga
 - Rebelle Paint (or something like that)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODM1MjIwMywtMjY1MjgwNjQ4LC0zNz
-AwNDgwMjksLTY1NTQzOTcsLTU0NzE2NzgxMCwtNTg1NzkyMjgw
-LDgzNzAxMTQ3OCwxMzIxNDgwNzgxLDY5Mzk5NDg1MCwxMzA2Mj
-UyMTg2LC0xNTA3MTYyNjUwXX0=
+eyJoaXN0b3J5IjpbMjQzODE1NTgxLDE3NzgzNTIyMDMsLTI2NT
+I4MDY0OCwtMzcwMDQ4MDI5LC02NTU0Mzk3LC01NDcxNjc4MTAs
+LTU4NTc5MjI4MCw4MzcwMTE0NzgsMTMyMTQ4MDc4MSw2OTM5OT
+Q4NTAsMTMwNjI1MjE4NiwtMTUwNzE2MjY1MF19
 -->
